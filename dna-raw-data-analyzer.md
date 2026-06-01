@@ -427,44 +427,9 @@ Steps:
 Output: JSON with risk level, explanation, recommendations, citations
 ```
 
-**Agent 3: SEO Content Writer**
-```
-Input: Category name, trait name, keywords
-Steps:
-  1. Research latest genetic studies for the trait (PubMed search)
-  2. Write blog-style article: "Is [trait] genetic? What your DNA says about [topic]"
-  3. Include the science: GWAS studies, specific SNPs, heritability stats
-  4. Optimize for keywords: "DNA [trait] test", "raw data [trait] analysis"
-  5. Internal link to relevant report/trait page
-Output: SEO-optimized blog post with citation links
-```
 
-### SEO & Content Strategy
 
-#### Keyword Clusters
 
-| Cluster | Keywords | Search Intent | Volume Est. |
-|---|---|---|---|
-| **Raw DNA Analysis** | "upload 23andme raw data", "analyze my dna", "raw dna analysis free" | Transactional | 40K/mo |
-| **Health Genetics** | "mthfr gene", "methylation genes", "dna health test", "genetic disease risk" | Informational | 60K/mo |
-| **Trait Genetics** | "caffeine metabolism gene", "lactose intolerance genetics", "alcohol flush gene" | Informational | 30K/mo |
-| **Allergy Genetics** | "dog allergy gene", "gluten sensitivity genetics", "food allergy dna test" | Informational | 15K/mo |
-| **Nutrition Genetics** | "nutrigenomics", "dna diet plan", "genetic based nutrition" | Commercial | 25K/mo |
-
-#### Content Funnel
-
-- **TOFU:** "What your 23andMe data can tell you about your health" (blog), free trait preview
-- **MOFU:** "5 hidden health risks in your DNA you should check" (email lead magnet), free allergy panel
-- **BOFU:** Premium health panel ($37), pharmacogenomics report ($49), annual subscription ($99/yr)
-
-#### 30-Day Content Calendar
-```
-Week 1: "How to download your 23andMe raw data" + free traits page
-Week 2: "Top 10 health risks hidden in your DNA" (listicle)
-Week 3: "MTHFR gene explained: what your rs1801133 means"
-Week 4: "Is gluten sensitivity genetic? DNA test guide"
-+ Ongoing: Weekly new trait additions (25 free traits → 50 → 100)
-```
 
 ### Growth & Viral Loops
 
@@ -473,7 +438,7 @@ Week 4: "Is gluten sensitivity genetic? DNA test guide"
 | **Social Trait Cards** | User gets trait result → shares image card to IG/Twitter → friends upload their DNA | 0.15 |
 | **Referral** | "Unlock a free premium report for each friend who uploads their DNA" | 0.25 |
 | **Free Trait Preview** | Non-logged-in users can see 5 free traits → email capture → full report | 10-15% conversion |
-| **Content SEO** | Blog posts rank for genetic queries → organic uploads | 0.05 (but compounding) |
+
 
 ### Revenue Model & Unit Economics
 
@@ -569,10 +534,9 @@ Week 4: "Is gluten sensitivity genetic? DNA test guide"
 - Shareable trait cards for social media (viral loop)
 - Email sequence: "New trait available based on your DNA"
 
-**Phase 3 — Subscription Model + Content Engine (Month 4-5)**
+**Phase 3 — Subscription Model + Advanced Reports (Month 4-5)**
 - Monthly subscription ($99/yr or $14.99/mo)
 - Auto-email new traits as they're added
-- Weekly blog posts ranking for genetic keywords
 - Supplement recommendation engine (partner affiliate program)
 - Doctor/coach referral system (B2B angle)
 - DNA file comparison tool (compare with family members)
